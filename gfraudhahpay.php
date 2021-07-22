@@ -4,7 +4,7 @@
  * Plugin URI:
  * Description: Raudhah Pay Payment Gateway | <a href="https://cloud.raudhahpay.com/user/register" target="_blank">Sign up Now</a>.
  * Author: Raudhah Pay
- * Author URI:
+ * Author URI:https://misolutionsenterprise.com
  * Version: 0.1.0.2
  * Requires PHP: 7.0
  * Requires at least: 4.6
